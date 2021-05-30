@@ -1,1 +1,1 @@
-# Market_Segmentation_for_Targeted_Ad_Marketing
+# Market-Segmentation-for-Targeted-Ad-Marketing
